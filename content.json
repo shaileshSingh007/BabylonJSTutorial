@@ -1,0 +1,14 @@
+{
+  "title": "BabylonJS Tutorial",
+  "description": "A simple Babylon.js starter project for learning 3D web graphics.",
+  "startFile": "index.html",
+  "framework": "Babylon.js",
+  "version": "1.0.0",
+  "author": "shaileshSingh007",
+  "features": [
+    "3D scene",
+    "camera controls",
+    "lighting",
+    "sphere and ground demo"
+  ]
+}
