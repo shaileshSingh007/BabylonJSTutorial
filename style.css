@@ -35,3 +35,4 @@ pre{margin:0;padding:12px;overflow-x:auto;color:#dbe6f7;font:13px/1.6 ui-monospa
 pre code{background:none;color:inherit;padding:0;font:inherit}
 .tip{background:var(--so);border-radius:8px;padding:10px 12px;font-size:15px}
 .pn{display:flex;justify-content:space-between;gap:8px;margin-top:20px}
+ul{margin:8px 0;padding-left:22px}li{margin:5px 0}a{color:var(--ac)}.more{border-left:4px solid var(--ac)}
